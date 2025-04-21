@@ -22,3 +22,11 @@ Basta possuir um PC com os sistemas Windows ou Linux.
 O compilador que utilizarei será o GCC.
 
 Não tenho preferências por editores de texto, mas recomendo que se use um que possua realçador de sintaxe. As opções para Linux são várias e não perderei meu tempo listando-as (já que o próprio Linux já é, ele próprio, um mega IDE). Para Windows, boas opções são o Notepad++ e o Visual Studio Code (não confunda com o Visual Studio - sem o Code!).
+
+### Instalando o GCC no Windows
+
+Se você está no Linux, pode pular essa seção.
+
+### Instalando o GCC no Linux
+
+Se você está no Windows, pode pular essa seção.
