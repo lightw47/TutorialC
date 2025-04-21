@@ -1,5 +1,4 @@
-0. Bla bla bla inicial
-======================
+# 0. Bla bla bla inicial
 
 C é uma linguagem de programação de uso geral. É usada há mais de 50 anos para produzir programas que necessitam maior proximidade de recursos de baixo nível, como o processador, a memória e outros dispositivos. Assim, C é largamente utilizado no desenvolvimento do núcleo (kernel) de sistemas operacionais, drivers e é suportado por arquiteturas que vão de microcontroladores a supercomputadores.
 
