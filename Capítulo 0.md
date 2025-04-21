@@ -31,4 +31,4 @@ Se você está no Linux, pode pular essa seção.
 
 Se você está no Windows, pode pular essa seção.
 
-O GCC normalmente já vem instalado por padrão nas distribuições Linux mais populares. Caso ele não esteja instalado, ao tentar executar o comando `gcc` no terminal, o sistema acusará que o comando não foi encontrado.
+O GCC normalmente já vem instalado por padrão nas distribuições Linux mais populares. Caso ele esteja instalado, ao tentar executar o comando `gcc` no terminal, o sistema responderá que nenhum arquivo foi fornecido ao compilador, ou ainda, a saída do compilador será `gcc: no input files`. Caso ele não esteja instalado, o sistema acusará que o comando não foi encontrado, e, para instalá-lo, as instruções dependerão do tipo de gerenciador de pacotes é usado no sistema. 
