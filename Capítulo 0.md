@@ -17,15 +17,17 @@ Um programa escrito na linguagem C deve ser compilado para o sistema em que se d
 
 Para este tutorial, não utilizarei nenhuma IDE (exemplos: Visual Studio, Code::Blocks, Dev-C++) pois o foco deste tutorial é ensinar a linguagem, é desenvolver o código.
 
-Basta possuir um PC com os sistemas Windows ou Linux, alé, de um compilador e um editor de texto.
+Basta possuir um PC com os sistemas Windows ou Linux, além de um compilador e um editor de texto.
 
 O compilador que utilizarei será o GCC.
 
-Não tenho preferências por editores de texto, mas recomendo que se use um que possua realçador de sintaxe. As opções para Linux são várias, já que o próprio Linux é, ele próprio, um grande IDE. Para Windows, boas opções são o Notepad++ e o Visual Studio Code (não confunda com o Visual Studio - sem o Code!).
+Não tenho preferências por editores de texto, mas recomendo que se use um que possua realçador de sintaxe. As opções para Linux são várias, já que o próprio Linux é, ele próprio, um grande IDE. Para Windows, boas opções são o Notepad++ e o Visual Studio Code (não confunda com o Visual Studio - sem o Code!). O Bloco de Notas nativo do Windows também pode ser usado, apesar de não realçar sintaxe, pode gerar códigos-fonte válidos.
 
 ### Instalando o GCC no Windows
 
 Se você está no Linux, pode pular essa seção.
+
+No Windows, utilizarei o TDM-GCC que, ao ser instalado, torna qualquer ambiente dos terminais Windows (cmd.exe e PowerShell) prontos para compilar programas em C. Primeiramente, baixe o [instalador](https://github.com/jmeubank/tdm-gcc/releases/download/v1.2105.1/tdm-gcc-webdl.exe).
 
 ### Instalando o GCC no Linux
 
