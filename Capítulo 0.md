@@ -30,7 +30,8 @@ Se você está no Linux, pode pular essa seção.
 No Windows, utilizarei o TDM-GCC que, ao ser instalado, torna qualquer ambiente dos terminais Windows (cmd.exe e PowerShell) prontos para compilar programas em C. Primeiramente, baixe o [instalador](https://github.com/jmeubank/tdm-gcc/releases/download/v1.2105.1/tdm-gcc-webdl.exe).
 
 Em seguida, clique em "Create" para criar uma nova instalação do TDM-GCC:
-![Create new installation](resources/c00f001.png)
+
+![Create](resources/c00f001.png)
 
 ### Instalando o GCC no Linux
 
