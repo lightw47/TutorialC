@@ -9,7 +9,7 @@ A linguagem C é
 * procedural, ou seja, executa passos em sequência que podem ser reaproveitados; e
 * estruturada, ou seja, utiliza blocos de controle de fluxo condicionais e de repetição, além de permitir a estruturação de dados em blocos.
 
-A classificação do nível de C é controversa. C pode ser considerada de alto nível pois utiliza mnemônicos da linguagem natural, mas muitos a consideram de médio nível por causa do seu poder no manejo de tarefas de baixo nível, incluindo o manejo de memória.
+A classificação do nível de C é controversa. C pode ser considerada de alto nível pois utiliza mnemônicos da linguagem natural, mas muitos a consideram de médio nível por causa do seu poder no manejo de tarefas de baixo nível, incluindo manipulação da memória.
 
 Um programa escrito na linguagem C deve ser compilado para o sistema em que se deseja executá-lo. Em linhas gerais, um compilador de C transforma o código-fonte do programa em um arquivo executável do sistema operacional (o compilador faz muito mais do que isso, mas deixo isso para outra hora =)).
 
