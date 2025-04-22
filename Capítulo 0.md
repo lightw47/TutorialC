@@ -27,7 +27,7 @@ Não tenho preferências por editores de texto, mas recomendo que se use um que 
 
 Se você está no Linux, pode pular essa seção.
 
-No Windows, utilizarei o TDM-GCC que, ao ser instalado, torna qualquer ambiente dos terminais Windows (cmd.exe e PowerShell) prontos para compilar programas em C. Primeiramente, baixe o [instalador](https://github.com/jmeubank/tdm-gcc/releases/download/v1.2105.1/tdm-gcc-webdl.exe).
+No Windows, utilizarei o TDM-GCC que, ao ser instalado, torna qualquer ambiente dos terminais Windows (cmd.exe e PowerShell) prontos para compilar programas em C. Primeiramente, baixe o [instalador](https://github.com/jmeubank/tdm-gcc/releases/download/v10.3.0-tdm64-2/tdm64-gcc-10.3.0-2.exe)).
 
 Em seguida, clique em "Create" para criar uma nova instalação do TDM-GCC:
 
