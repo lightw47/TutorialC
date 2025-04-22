@@ -39,4 +39,13 @@ Rode, inicialmente, o comando `dnf upgrade` para atualizar os pacotes do seu sis
 ```
 dnf install gcc-g++
 ```
+Note que esses comandos podem exigir privilégios de super-usuário. Considere usar esses comandos com a diretriz `sudo`.
+
+#### Instalando os pacotes do GCC via APT
+
+Rode, inicialmente, o comando `apt update` para atualizar a lista de pacotes disponíveis. Em seguida, execute o comando `apt upgrade` para atualizar os pacotes do sistema. Finalmente, instale o GCC com o comando
+```
+apt install gcc
+```
+Note que esses comandos podem exigir privilégios de super-usuário. Considere usar esses comandos com a diretriz `sudo`.
 
